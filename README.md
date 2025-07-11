@@ -65,7 +65,6 @@ Model Evaluation – Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 
 Deployment – Model is loaded into a Flask app and predictions are served via web UI
 
-![alt text](image.png)
 
 
 ---
